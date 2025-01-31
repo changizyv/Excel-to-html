@@ -1,4 +1,4 @@
-## Excel to HTML Table Converter by Simple Python code
+## Excel to HTML Table Converter by Simple Python code 
 
 The **Excel to HTML Table Converter** is a Python script that allows you to convert data from an Excel spreadsheet into an HTML table. Whether you're a developer, data analyst, or just someone who needs to display tabular data on a website, this tool can be helpful.
 
